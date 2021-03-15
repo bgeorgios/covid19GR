@@ -20,5 +20,5 @@ Required libraries:
 
 Need Help?
 ----------
-Need help using covid19GR? Found an issue? Check out my
+Need help with the code of covid19GR? Found an issue? Check out my
 [personal blog](http://www.gboumis.com) and contact me via my LinkedIn profile found at the header.
