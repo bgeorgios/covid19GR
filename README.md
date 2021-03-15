@@ -20,5 +20,5 @@ Required libraries:
 
 Need Help?
 ----------
-Need help using EnsPy? Found an issue? Have a feature request? Check out my
+Need help using covid19GR? Found an issue? Check out my
 [personal blog](http://www.gboumis.com) and contact me via my LinkedIn profile found at the header.
